@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #222;
+  color: #fff;
+  text-align: center;
+  padding: 40px;
+}
+
+h1 {
+  color: #f4d03f;
+}
+
+audio {
+  margin: 20px 0;
+  width: 80%;
+}
+
+button {
+  margin: 5px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background: #3498db;
+  color: white;
+}
+
+button:hover {
+  background: #2980b9;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 8px 0;
+  cursor: pointer;
+  color: #f4d03f;
+}
+
+li:hover {
+  color: #fff;
+  text-decoration: underline;
+}
